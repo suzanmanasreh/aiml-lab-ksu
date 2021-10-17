@@ -1,0 +1,3 @@
+[submodule "hugo-site/aiml-lab/themes/beautifulhugo"]
+	path = hugo-site/aiml-lab/themes/beautifulhugo
+	url = https://github.com/halogenica/beautifulhugo.git
