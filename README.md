@@ -1,5 +1,5 @@
 # aiml-lab-ksu
-This is the website for the AI &amp; ML lab at KSU.
+This is a potential website for the AI &amp; ML lab at KSU.
 
 ## Installation
 a) Clone the repository via SSH ``git@github.com:suzm10/aiml-lab-ksu.git``
