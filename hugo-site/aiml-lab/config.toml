@@ -14,7 +14,7 @@ pygmentsCodefencesGuessSyntax = true
 #googleAnalytics = "XXX"
 
 [Params]
-  homeTitle = "Welcome to the AI/ML Lab @ KSU" # Set a different text for the header on the home page
+  homeTitle = "AI/ML Lab @ KSU" # Set a different text for the header on the home page
   subtitle = "Kennesaw State University's Artifical Intelligence and Machine Learning Lab"
   mainSections = ["post","posts"]
 #  logo = "img/ksu-logo.png" # Expecting square dimensions
